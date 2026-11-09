@@ -10,12 +10,11 @@ Protótipo de mini e-commerce que usa **dois bancos de dados locais ao mesmo tem
 ## Integrantes
 
 - Juliano Silva Tempesta
-- [Preencher: nome completo]
-- [Preencher: nome completo]
+- Pablo Henrique Silva Calogi
 
 ## Vídeo de demonstração
 
-[Preencher: link do YouTube ou Google Drive]
+[Assistir à demonstração no Google Drive](https://drive.google.com/file/d/1tlPhVCQi5AF0v8VK5DrJ3wh3NHQIpHjD/view)
 
 ## Funcionalidades
 
